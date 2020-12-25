@@ -1,7 +1,9 @@
 # Epic Workshop
 
 
-[-> Download <-](http://epicworkshop.naikho.com/archive/main.zip)
+| Version | Dated | Links |
+|-|-|-|
+| 0.0.2 | 24-12-2020 | [![Download](https://img.shields.io/badge/Download-v0.0.2-blue?style=flat-square)](http://epicworkshop.naikho.com/archive/main.zip) |
 
 ## WOW ! Epic Workshop? What's this ?
 
