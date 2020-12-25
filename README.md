@@ -1,5 +1,11 @@
 # Epic Workshop
 
+
+| Version | Dated | Links |
+|-|-|-|
+| 0.0.1 | 24-12-2020 | [![Delete](https://img.shields.io/badge/Deleted-v0.0.1-red?style=flat-square)]() |
+| 0.0.2 | 24-12-2020 | [![Download](https://img.shields.io/badge/Download-v0.0.2-blue?style=flat-square)](http://epicworkshop.naikho.com/archive/main.zip) |
+
 ## WOW ! Epic Workshop? What's this ?
 
 Epic Workshop is software that will allow Rocket League players to enjoy workshop maps on Epic Games (and Steam as well).
