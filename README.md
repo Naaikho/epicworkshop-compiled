@@ -24,7 +24,6 @@ enjoy!
 
 
 # Help
-## Here are some help on the software:
 
 
 ### "Load maps with start":
