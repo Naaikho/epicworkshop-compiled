@@ -42,7 +42,7 @@ If checked, the maps on which you have subscribed are detected and displayed in 
 If you enter the wrong Steam folder or if you are on Epic Games, this button will be disabled.
 
 
-# Anti-virus
+## Anti-virus
 Your antivirus may block the app / prevent you from downloading / prevent you from opening it or delete the app because it considers Epic Workshop to be under-downloaded file.
 To avoid blockages, disable your antivirus before downloading and then create an exception.
 
