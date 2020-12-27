@@ -1,5 +1,7 @@
 # How to install Epic Workshop
 
+1. [![Download Epic Workshop](https://img.shields.io/badge/Download-blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/main.zip)
+
 1. Extract epicworkshop-compiled-main.zip where you want
 1. Go in to the epicworkshop-compiled-main folder and Open Epic Workshop.exe
 
