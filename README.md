@@ -3,7 +3,7 @@
 
 | Version | Dated | Links |
 |-|-|-|
-| 0.0.3 | 25-12-2020 | [![Download](https://img.shields.io/badge/Download-v0.0.3-blue?style=flat-square)](http://epicworkshop.naikho.com/archive/main.zip) |
+| 0.0.3 | 25-12-2020 | [![Download](https://img.shields.io/badge/Download-v0.0.3-blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/main.zip) |
 
 ## WOW ! Epic Workshop? What's this ?
 
