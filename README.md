@@ -26,6 +26,10 @@ enjoy!
 # Help
 
 
+### [How to install](https://github.com/Naaikho/epicworkshop-compiled/blob/main/How%20to%20install.md)
+
+
+
 ### "Load maps with start":
 When you launch the application for the first time, you Epic Workshop copies all Rocket League maps to the "resources_maps" folder to keep the original maps before replacement.
 If the button is checked, each time you close the application, all maps will be deleted from the folder except the one in use if there is one.
