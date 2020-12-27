@@ -47,6 +47,8 @@ Your antivirus may block the app / prevent you from downloading / prevent you fr
 To avoid blockages, disable your antivirus before downloading and then create an exception.
 
 
+# Check list
+
 
 - [ ] Add help button
 - [ ] Add custom maps rename button
