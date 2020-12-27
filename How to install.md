@@ -4,9 +4,9 @@
 1. Go in to the epicworkshop-compiled-main folder and Open Epic Workshop.exe
 
 1. In Epic Workshop, select your platform (Steam or Epic Games) and select the Rocket League folder
-    2. Current steam path: C:\Program Files(86x)\Steam\steamapps\common\rocketleague
-        3. (For steam, select the Steam folder first)
-    2. Current Epic Games path: C:\Program Files(86x)\Epic Games\rocketleague
+    - Current steam path: C:\Program Files(86x)\Steam\steamapps\common\rocketleague
+        - (For steam, select the Steam folder first)
+    - Current Epic Games path: C:\Program Files(86x)\Epic Games\rocketleague
 
 1. Now, go in "Download > Find a workshop map"
 1. Select a custom map on the Steam workshop
