@@ -1,9 +1,9 @@
 # Epic Workshop
 
 
-| Version | Dated | Link |
+| Version | Release | Link |
 |-|-|-|
-| 0.0.3 | 25-12-2020 | [![Download](https://img.shields.io/badge/Download-v0.0.3-blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/main.zip) |
+| 0.0.3 | 25-12-2020 | [![Download](https://img.shields.io/badge/Download-v0.0.3-blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/0.0.3.zip) |
 
 ## WOW ! Epic Workshop? What's this ?
 
@@ -54,7 +54,7 @@ To avoid blockages, disable your antivirus before downloading and then create an
 # Check list
 
 
-- [ ] Add help button
+- [X] Add help button
 - [ ] Add custom maps rename button
 - [ ] Add maps downloader
 - [ ] Add multiplayer (very not sure)
