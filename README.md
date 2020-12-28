@@ -1,7 +1,7 @@
 # Epic Workshop
 
 
-| Version | Dated | Links |
+| Version | Dated | Link |
 |-|-|-|
 | 0.0.3 | 25-12-2020 | [![Download](https://img.shields.io/badge/Download-v0.0.3-blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/main.zip) |
 
@@ -24,6 +24,10 @@ enjoy!
 
 
 # Help
+
+
+### [How to install](https://github.com/Naaikho/epicworkshop-compiled/blob/main/How%20to%20install.md)
+
 
 
 ### "Load maps with start":
