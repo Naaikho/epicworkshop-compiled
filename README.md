@@ -54,7 +54,7 @@ To avoid blockages, disable your antivirus before downloading and then create an
 # Check list
 
 
-- [ ] Add help button
+- [X] Add help button
 - [ ] Add custom maps rename button
 - [ ] Add maps downloader
 - [ ] Add multiplayer (very not sure)
