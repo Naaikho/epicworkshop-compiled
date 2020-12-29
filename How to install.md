@@ -14,7 +14,7 @@
 1. Select a custom map on the Steam workshop
 1. Get the link of the workshop map and return in the app
 1. Go in "Download > Map downloader"
-1. give the link of the workshop map to the site and click on "Download"
+1. Give the link of the workshop map to the site and click on "Download"
 
 1. Once this is done, go to the Epic Workshop folder and put the .zip file in the "map" folder
 
