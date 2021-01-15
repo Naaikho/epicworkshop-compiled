@@ -3,7 +3,7 @@
 
 | Version | Release | Link | Source |
 |-|-|-|-|
-| ![Version](https://img.shields.io/badge/Version-0.0.6-Green.svg) | ![Release](https://img.shields.io/badge/Release-07.01.2021-Green.svg) | [![Download](https://img.shields.io/badge/Download--blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/0.0.6.zip) |  [![Source](https://img.shields.io/badge/Source-0.0.6-red.svg)](https://github.com/Naaikho/epicworkshop) |
+| ![Version](https://img.shields.io/badge/Version-0.0.6-purple.svg) | ![Release](https://img.shields.io/badge/Release-07.01.2021-white.svg) | [![Download](https://img.shields.io/badge/Download--blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/0.0.6.zip) |  [![Source](https://img.shields.io/badge/Source-0.0.6-red.svg)](https://github.com/Naaikho/epicworkshop) |
 
 ## WOW ! Epic Workshop? What's this ?
 
