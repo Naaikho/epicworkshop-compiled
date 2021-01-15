@@ -1,9 +1,9 @@
 # Epic Workshop
 
 
-| Version | Release | Link |
-|-|-|-|
-| 0.0.6 | 07-01-2021 | [![Download](https://img.shields.io/badge/Download-v0.0.6-blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/0.0.6.zip) |
+| Version | Release | Link | Source |
+|-|-|-|-|
+| ![Version](https://img.shields.io/badge/Version-0.0.6-Green.svg) | ![Release](https://img.shields.io/badge/Release-07.01.2021-Green.svg) | [![Download](https://img.shields.io/badge/Download--blue?style=flat-square)](https://github.com/Naaikho/epicworkshop-compiled/archive/0.0.6.zip) |  [![Source](https://img.shields.io/badge/Source-0.0.6-red.svg)](https://github.com/Naaikho/epicworkshop) |
 
 ## WOW ! Epic Workshop? What's this ?
 
